@@ -1,7 +1,14 @@
-this is `var i = 1`
+__creating a *list*__
 
-``` javascript
-var i = 1;
-let j = 2;
-const c = 0;
-```
+- [] One
+- [] two
+- [] three
+- [x] four
+
+- one
+- two
+  - three
+
+1. one
+2. two
+3. three
