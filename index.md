@@ -1,10 +1,7 @@
-# manoj 
-###### manoj
+this is `var i = 1`
 
-**_manoj_**
-
-__Insterting Image__
-
-![my first image](https://octodex.github.com/images/yaktocat.png)
-
-This is the testing of *markup*
+``` javascript
+var i = 1;
+let j = 2;
+const c = 0;
+```
